@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """shebang"""
 
-from typing import List, Union 
+from typing import List, Union
 
 
 def sum_mixed_list(mxd_list: List[Union[int, float]]) -> float:
