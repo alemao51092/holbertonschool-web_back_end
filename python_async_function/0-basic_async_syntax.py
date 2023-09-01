@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Async Wait Random Function
-
+shebang
 """
 import asyncio
 import random
