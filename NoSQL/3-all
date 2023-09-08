@@ -1,2 +1,2 @@
 // show collections
-db.school.find()
+db.school.find({"name" : "Holberton school"})
