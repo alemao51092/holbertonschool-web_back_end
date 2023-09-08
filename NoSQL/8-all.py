@@ -3,6 +3,7 @@
 
 
 def list_all(mongo_collection):
+    """list all doc"""
     list_doc = []
     for doc in mongo_collection.find():
         list_doc.append(doc)
