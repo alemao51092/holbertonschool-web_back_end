@@ -1,4 +1,4 @@
 // insert document
 db.school.insert({
-    "name" : "Holberton school"
+    "name": "Holberton school"
 })
